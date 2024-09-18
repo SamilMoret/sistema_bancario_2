@@ -3,7 +3,7 @@
 Este é um sistema bancário simples desenvolvido em Python, como parte dos desafios do Bootcamp Python DIO. O sistema permite criar usuários, contas correntes, realizar depósitos, saques e exibir extratos, além de listar todas as contas cadastradas.
 
 
-![Demonstração do Sistema Bancario](https://github.com/SamilMoret/sistema_bancario/blob/main/sistema__bancario_vi2.gif)
+![Demonstração do Sistema Bancario](https://github.com/SamilMoret/sistema_bancario_2/blob/main/sistema__bancario_vi2.gif)
 
 ## 🚀 Funcionalidades
 
